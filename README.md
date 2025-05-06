@@ -44,5 +44,5 @@ java br.com.mvbos.lgj.Jogo
 - Manipulação de arquivos para ranking
 - Áudio com `javax.sound.sampled` e `javax.sound.midi`
 
-
-Desenvolvido com 💙 por Cícero Braule.
+---
+#### Desenvolvido por Cícero Braule ✨
